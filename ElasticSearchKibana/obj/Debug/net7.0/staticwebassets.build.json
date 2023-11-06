@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SVQ3YlanPq8TaOYvGXCwrRppszIHp6pfRTsEsmNw1lM=",
+  "Source": "ElasticSearchKibana",
+  "BasePath": "_content/ElasticSearchKibana",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
